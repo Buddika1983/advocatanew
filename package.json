@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.13.8",
-    "@faustwp/core": "^3.2.3",
+    "@faustwp/core": "^3.2.4",
     "cross-fetch": "^4.1.0",
     "dayjs": "^1.11.13",
     "graphql": "^16.11.0",
